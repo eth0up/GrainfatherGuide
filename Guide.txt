@@ -1,0 +1,52 @@
+Locate Grainfather in a spot where you will have easy access to draining chiller water when the boil is finished. Put water in kettle based on the amount of grain you're using. TIP: Use the online Grainfather calculator
+
+(optional) Remove the ball and spring from the pump's outlet pipe. This will prevent grain husks from clogging things up. Caveat: you MUST make sure the pump's valve is set to OFF when disconnecting the recirculation arm or chiller (or any other accessories).
+
+Attach the overflow pipe base to the mash tun's bottom screen, and insert it into the mash tun sleeve. TIP: Spray a little water or sanitizer inside the mash tun sleeve to ease insertion of the bottom screen.
+
+Place the mash tun into the kettle and attach the overflow pipe and grain blocker cap. Extend the overflow pipe to make it tallest. Put the kettle lid on and attach the recirculation arm.
+
+Set temp controller switch to "Mash", Power Output switch (bottom switch) to "Mash" aka low position (the UP position!) - NOTE: If using a custom firmware where you control the power output, you do not need to mess with the switches - leave them at BOIL/NORMAL. Turn on the pump to recirculate the water for faster heating. TIP: Attach Relectix, Graincoat, or other insulating cover if available to help keep heat in.
+
+Heat the water to strike temp. When strike temp is reached: turn off the pump, remove lid & recirculation arm, then slowly stir in grains. TIP: Put a towel around the top ring of the kettle to block the gap during dough-in.
+
+When grains are in: Remove the grain blocker cap & towel, attach mash tun top screen just above grain bed, attach overflow cap, attach lid & recirculation arm, then turn the pump back on. TIP: Adjust the pump outlet flow so that the whirlpooling liquid stays just a bit below the overflow cap.
+
+(optional) Set the temp to protein rest temp, and wait 15 mins.
+
+Set the temp to the saccharification temp. Wait 60 minutes. TIP: Adjust the pump outlet flow so that the whirlpooling liquid stays just a bit below the overflow cap.
+
+At some point during 60 mins saccharification, fill a secondary pot with amount of water for sparging and heat it to the necessary level. TIP: A 1300W Waring or other electric plate burner can help with this.
+
+After mash is done, turn off pump, remove recirculation arm, and get the heated sparge water. TURN OFF ELECTRIC BURNER AT THIS TIME OR YOU WILL OVER AMP THE CIRCUIT IN NEXT STEPS!
+
+Lift the tun out, rest it on the kettle upper brackets, reattach recirculation arm and feed it between the tun and kettle, and turn on the pump. Set temp controller switch to "Boil" (overrides any currently set temp!). Set the Power Output switch (lower switch) to "Normal" aka high (the DOWN position).
+
+Push the top mash screen just over the grain bed to the point where a small amount of liquid accumulates. Take off the overflow cap, attach the grain blocker cap, and raise the overflow tube to highest.
+
+Pour the sparge water carefully and evenly over the top mash screen, allowing only about 1/4 inch of liquid to accumulate at a time. This prevents the water weight from pushing TOO quickly though the grains - you'll want a nice even rinse.
+
+Once the liquid draining from the mash tun has slowed to a trickle: turn off the pump, then remove the recirculation arm and mash tun - set them aside.
+
+Now is a great time to measure the SG!
+
+Put the lid on, attach the recirculation arm, and turn the pump on to keep the kettle evenly heating.
+
+When boil is nearly reached: turn off the pump, attach the counterflow chiller's wort line to the pump outlet, turn on the pump, and run some almost-boiling hot wort through the chiller (and back into the kettle) to sanitize it for later.
+
+After sanitizing the chiller for a few minutes, turn off the pump and set the chiller aside. Remove the lid and attach the recirculation arm and hop spider/basket (if available). TIP: The Grainfather filter is woefully inadequate, and hops tend to sludge it up very easily. A hop spider or hop bag/basket will prevent this from happening!
+
+Proceed with your recipe's boil directions. TIP: During the boil, you will likely have enough time to give your mash tun a good rinse so that it doesn't get too sticky.
+
+When the boil is done: turn off the heat, remove the hop spider and set aside, and put the lid back on.
+
+Attach the chiller (feeding the wort back into the kettle), and turn on the pump. Connect sink/hose to the blue input line of the chiller and ensure that the red output line is aimed at an appropriate drain - the liquid coming out will be VERY hot at first!
+
+Turn on the cold water source (gently, as high pressure may cause attachments to pop off!) and chill until Grainfather temperature reads approx 71C(160F). This should take little time. At this point the wort coming out of the chiller will be around 20C(68F).
+
+Now is a great time to get the OG!
+
+Transfer wort to a fermenter, pitch the yeast, and store according to the recipe. TIP: Note how much wort is in the fermenter to calculate the efficiency
+
+Clean! Give the Grainfather and accessories a quick rinse. Put some 55C(131F) water in the kettle with a bit of PBW. Let it soak a while, then pump it though the system & accessories. After that, discard the PBW water and run a bunch of fresh water through the kettle and accessories to clean out any leftover PBW.
+
